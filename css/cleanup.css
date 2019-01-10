@@ -4,7 +4,7 @@
   display: none;
 }
 
-#wall #tag-2:nth-child(){
+#wall #tag-2:nth-child(2){
   display: none;
 }
 
