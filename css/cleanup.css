@@ -24,7 +24,7 @@
   display: none;
 }
 
-body #wall div.parent div:first-child > #tag-7.slick {
+#wall .parent div:first-child > #tag-7.slick {
    display: none;
 }
 
