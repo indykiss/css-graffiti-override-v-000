@@ -24,7 +24,7 @@
   display: none;
 }
 
-body #wall div.parent div > #tag-7.slick::only-hild {
+body #wall div.parent div > #tag-7.slick:only-child {
    display: none;
 }
 
